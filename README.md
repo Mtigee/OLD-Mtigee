@@ -36,4 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
+
+<img src="https://raw.githubusercontent.com/Mtigee/Mtigee/output/snake.svg" alt="Snake animation" />
+
+###
+
 ###
