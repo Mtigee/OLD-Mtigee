@@ -37,7 +37,7 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Mtigee/Mtigee/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mtigee/snake.yml" alt="Snake animation" />
 
 ###
 
