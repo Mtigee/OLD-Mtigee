@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 <h1>
-  Hi There I'm Maynood
+  Hi There I'm Maymood
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
@@ -40,6 +40,8 @@ I'm a software developer with a strong passion for creating visually appealing a
 </a>
 
 
+<!-- 
+
 
 <h2> Sup .. Maymoud is here <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
@@ -49,12 +51,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-<!--
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
--->
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -72,6 +69,9 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
+
+
+-->
 
 <h3> 🤝🏻 Connect with Me </h3>
 
